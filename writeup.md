@@ -209,6 +209,10 @@ In a way is the opposite transformation. Points over the horizon are displaced a
 
 Steering correction should be proportional to maximum displacement but as this transformation has not been used it has not been calibrated.
 
+### Aditional experiment
+
+As we don't have a track 3 to test the driving I used track 2 in opossite direction. Results are mixed and need more work to get conclusions.
+
 ### Conclusions
 
 This project has been great fun and although initial requirements were easily covered due to previous study of the NVidia project, getting it working in the track 2 was much more challenging but worth the effort because it allowed me to get some important insights:

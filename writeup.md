@@ -219,7 +219,7 @@ This project has been great fun and although initial requirements were easily co
 
 * In a real situation this parameter may be computed from geometric considerations that were lacking in the simulator. Anyway, it is quit amazing that the system may learn without a clear understanding of what the steering value means.
 
-* When recording in the simulator wobbling augmented and sometimes the speed should be reduced to be able to do all the second circuit due to low system power and probably disc access. That reason may be translated to the speed of reaction or sampling and acting frequency in a real system. If it is too low it will wobble a lot and will not be able to drive smooth and correctly or speeds should be much slower.
+* When recording in the simulator wobbling augmented and sometimes the speed should be reduced to be able to do all the second circuit due to low system power and probably disk access. That reason may be translated to the speed of reaction or sampling and acting frequency in a real system. If it is too low it will wobble a lot and will not be able to drive smooth and correctly or speeds should be much slower.
 
 * Will be very interesting to add the speed to the network and use it as a modulation to the desired speed, at least as an experiment.
 
